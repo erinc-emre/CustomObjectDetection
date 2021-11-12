@@ -30,17 +30,17 @@ Today, the plastic coating is applied on the cables in important lines in the ai
 way, the connection between the birds and the cables is insulated. Although insulating with plastic is less costly than
 underground lines, it is not widely used because it adds an additional cost. In order to use insulated cables, old cables
 must be removed and new cables must be inserted. Since the demand is limited, the cost is higher than normal cables
-• Today, various solutions are tried by keeping the cost to a minimum. The most common of these is to put plastic
+ - Today, various solutions are tried by keeping the cost to a minimum. The most common of these is to put plastic
 parts moving with the wind (such as a wind rose) on the wires. The coverage of these parts is very limited and it
 is very easy to be damaged by environmental factors.
-• Another common solution is to prevent birds from coming in using sound. This solution has negative effects on
+ - Another common solution is to prevent birds from coming in using sound. This solution has negative effects on
 birds and people around may be disturbed by the sound. In addition, its effectiveness is limited as the sound may
 vary according to the weather.
-• With various lighting methods, it is possible to remove the birds. however, these lights can have different effects
+ - With various lighting methods, it is possible to remove the birds. however, these lights can have different effects
 on other animals in the environment. In addition, the light system must be placed on the entire line, which
 requires a very high energy requirement. However, it is not preferred in the market as its efficiency is very low
 during the day.
-• Putting a still fake wild animal is one of the most tried methods, but this method is very successful. Some birds
+ - Putting a still fake wild animal is one of the most tried methods, but this method is very successful. Some birds
 can understand this over time, or the paint of fake wild animals becomes obsolete due to wear over time.
 
 ## MATERIAL ve METHODS:
@@ -72,14 +72,14 @@ deemed necessary.
 ## EXPECTED BENEFITS:
 This project plans to both facilitate the work of electricity companies and seriously reduce the human -caused
 deaths of birds in nature.
-• As a result of the project, the problems experienced in the power lines will be prevented to a great extent.
-• Bird death and injury will be drastically reduced.
-• Solutions will be offered to electricity companies at affordable costs.
-• The workload of maintenance crews that look after power lines will be reduced.
+ - As a result of the project, the problems experienced in the power lines will be prevented to a great extent.
+ - Bird death and injury will be drastically reduced.
+ - Solutions will be offered to electricity companies at affordable costs.
+ - The workload of maintenance crews that look after power lines will be reduced.
 
 ##REFERENCES:
-https://en.wikipedia.org/wiki/Electrical_wiring
-https://www.powerandcables.com/product/cable-protection-covers/
-https://sciencing.com/do-birds-sit-electrical-wires-6592687.html
-https://sciencing.com/dont-birds-electrocuted-electric-wires-5180022.html
-https://birdproofingguide.com/how-to-keep-birds-off-power-lines/
+ - https://en.wikipedia.org/wiki/Electrical_wiring
+ - https://www.powerandcables.com/product/cable-protection-covers/
+ - https://sciencing.com/do-birds-sit-electrical-wires-6592687.html
+ - https://sciencing.com/dont-birds-electrocuted-electric-wires-5180022.html
+ - https://birdproofingguide.com/how-to-keep-birds-off-power-lines/
