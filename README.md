@@ -9,15 +9,15 @@ Senior Project Repository
 4/8 - Getting Started with AI on Jetson Nano - https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about 
 
 
-#PROTECTION OF ELECTRICAL WIRES FROM BIRDS
-##AIM:
+# PROTECTION OF ELECTRICAL WIRES FROM BIRDS
+## AIM:
 Birds placed on electrical wires can be disabled or be injured in some cases. In addition to causing vital harm to the
 birds, this can also damage power lines. Disruptions and interruptions in the electricity flow may occur as a result
 of the instantaneous exit of high voltage and current from a line. This project will detect the devices to be placed in
 the determined critical areas and the birds perched on the wires. If the system is detected that the bird has landed
 on the wire, it will be ensured that the birds are removed using various methods without harming the birds.
 
-##IMPACT and SCOPE:
+## IMPACT and SCOPE:
 Power lines have been in our lives for over 100 years. With the development of technology, our need for electrical
 lines has also increased and various modern results have been developed for it. The most common and economical
 solution was to increase the number of wires passing through the air and to ensure their strength. As a result of this
@@ -43,7 +43,7 @@ during the day.
 • Putting a still fake wild animal is one of the most tried methods, but this method is very successful. Some birds
 can understand this over time, or the paint of fake wild animals becomes obsolete due to wear over time.
 
-##MATERIAL ve METHODS:
+## MATERIAL ve METHODS:
 Thanks to today's technology, we can find very economical cameras and motors. Using this advantage, we
 produce a new artificial intelligence solution. We place cameras at designated points. We also place special
 vibration motors on the target wires. We connect cameras and motors to a private network. Motors and cameras
@@ -69,7 +69,7 @@ project camera will be taken, labeled and the algorithm will be trained again. F
 CNN, Faster RCNN, etc. object detection algorithms will be tested and special changes will be made when
 deemed necessary.
 
-##EXPECTED BENEFITS:
+## EXPECTED BENEFITS:
 This project plans to both facilitate the work of electricity companies and seriously reduce the human -caused
 deaths of birds in nature.
 • As a result of the project, the problems experienced in the power lines will be prevented to a great extent.
