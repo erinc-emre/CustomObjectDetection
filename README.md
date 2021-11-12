@@ -52,18 +52,22 @@ connect with our computers over this network. Our computers can be site-specific
 designed as Online - Offline according to the location of the system. These computers will take the live images
 from the cameras and run the image processing algorithm specially designed for the project. If birds are detected
 according to the results, a command will be sent to the motors and the birds will be cut off from the wires.
+
 For camera systems, IP cameras suitable for outdoor use can be preferred. Depending on the use of the project,
 cameras with various pixels, lenses or 360 degrees can be used. Various versions of these cameras have the feature of
 transferring data via Ethernet cable or wirelessly. In this way, we will have flexibility in the project.
+
 Since our computer choice is quite wide, the decision will be made after our image processing algorithm has been
 performance tested on various computers. The tests are planned to be carried out on various systems, especially
 NVIDIA Jetson, RaspberryPI. The computers must be suitable for the required network connection and be able to run
 the image processing algorithm in an uninterrupted and efficient way.
+
 The motors must be selected specifically according to the location and characteristics of the cable. Since the task of
 the motors is to vibrate the wires, the thickness, length, material, etc. of the wires are very important. Various
 solutions are being considered for the network connection of the selected motors. The power control of the motors can
 be done by computers, or it can be controlled by placing a device next to the motors that can make a network
 connection. This situation will be decided by testing depending on the resources and conditions in the projects.
+
 The image processing algorithm will be developed using the Python 3 language. It is planned to use ready -made
 datasets for this algorithm. However, when necessary, after the camera setup of the project, images from the real
 project camera will be taken, labeled and the algorithm will be trained again. For the project, pre -trained YOLO,
