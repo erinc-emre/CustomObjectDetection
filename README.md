@@ -77,7 +77,7 @@ deaths of birds in nature.
  - Solutions will be offered to electricity companies at affordable costs.
  - The workload of maintenance crews that look after power lines will be reduced.
 
-##REFERENCES:
+## REFERENCES:
  - https://en.wikipedia.org/wiki/Electrical_wiring
  - https://www.powerandcables.com/product/cable-protection-covers/
  - https://sciencing.com/do-birds-sit-electrical-wires-6592687.html
