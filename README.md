@@ -23,6 +23,7 @@ lines has also increased and various modern results have been developed for it. 
 solution was to increase the number of wires passing through the air and to ensure their strength. As a result of this
 situation, there was a serious increase in the power lines and the bird problem gained serious importance. In this
 direction, new solutions have started to be researched.
+
 In this direction, electric wires were passed underground in crowded places, especially in city centers. In this way, the
 problem of security and visual pollution caused by cables in the air was resolved. However, this is a very long and
 costly solution. Since it was very costly and inefficient to use this solution between cities, new solutions were sought.
